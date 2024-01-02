@@ -1,5 +1,7 @@
 # :car: Distance Sensor with LCD
 Group work to create a wall distance sensor for a car
+
+<img src="/img/Sensor-de-Distancia-com LCD.png" height="400"></img>
 <br><br>
 ## :computer: Access this project on the Tinkercad website.
 https://www.tinkercad.com/things/6BwnN59bCeH-sensor-de-distancia-com-lcd
