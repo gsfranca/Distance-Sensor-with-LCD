@@ -1,7 +1,7 @@
 # :car: Distance Sensor with LCD
 Group work to create a wall distance sensor for a car
 <br><br>
-## :computer: Acess this project on Tinkercad website
+## :computer: Access this project on the Tinkercad website.
 https://www.tinkercad.com/things/6BwnN59bCeH-sensor-de-distancia-com-lcd
 <br><br>
 ## :family: Made By
@@ -27,12 +27,12 @@ The sensor measures the distance between the car and an object nearby (like a wa
 * If it is not a safe distance (Lower than 15cm), the red LED will on (offing the green one), and the distance will be displayed on LCD with a warning saying "CUIDADO" (CAUTION), the Piezo will also start sounding.
 <br><br>
 ## ⚙️ How to test in tinkercad
-You need to have a account on Tinkercad to access this project, you can do it in the official website. [Access here.](https://www.tinkercad.com/join) 
-### • 1st Step: Open the link in the section " :computer: Acess this project on Tinkercad website"
+You need to have an account on Tinkercad to access this project, you can do it on the official website. [Access here.](https://www.tinkercad.com/join) 
+### • 1st Step: Open the link in the section " :computer: Acess this project on the Tinkercad website."
 ### • 2nd Step: Create a copy of the project.
 ### • 3rd Step: Click on "Start Simulation".
 ### • 4th Step: Click on the gray button on the ultrasonic sensor.
 <img src="/img/gray-btn.png" height="200" />
 
 ### • 5th Step: Move the blue circle in the green area, they represent, respectively, the reference object and the sensor operating area.
-<img src="/img/blue-cicle_green-area.png" height="200" />
+<img src="/img/blue-cicle_green-area.png" height="400" />
